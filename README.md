@@ -1,0 +1,2 @@
+# AuthCookies
+Cookies authentication sample
